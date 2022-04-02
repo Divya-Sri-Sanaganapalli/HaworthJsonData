@@ -1,0 +1,298 @@
+{
+    "productsInfo": [
+        {
+            "title": "Fern",
+            "description": "The Fern office chair's state of the art comfort and flexibility makes it one of the best ergonomic office chairs on the market.  Fern has been researched and certified by experts to offer unparalleled back support throughout the day.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Executive",
+                "Conference",
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/fern/overview/Fern-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Fern Executive",
+            "description": "Fern leather executive office chairs are the first edgeless comfort executive chairs. This leather office chair draws from nature to support user performance.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Executive"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/fern-executive/overview/fern-executive-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Zody",
+            "description": "The Zody ergonomic desk chair is a high-performing office chair with back support, offering a fully researched and patented lumbar support system. Zody computer chairs bring science-based wellness together with a timeless design to create the ultimate in user comfort.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Executive",
+                "Conference",
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/zody-1/overview/Zody-6-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Very",
+            "description": "Very desk chairs offer a modern office chair solution that adjusts to provide individual comfort and support with universal appeal. The Very desk chair on wheels also enables easy mobility for collaboration in the workplace, while the chair arms are adjustable for ultimate comfort.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Executive",
+                "Conference",
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/very-0/overview/Very-5-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Soji",
+            "description": "The Soji office chair with adjustable arms is one of the best office chairs for posture. Peak performance is made easy with the lumbar support on this office chair.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Conference",
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/soji/overview/soji-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Veda",
+            "description": "Veda is a light-scale chair that lets people collaborate or focus in comfort. Veda conveys form and function, rooted in decades of Italian design heritage.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Executive",
+                "Conference",
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/veda/overview/Veda-Whitesweep-8-Haworth.jpg"
+        },
+        {
+            "title": "Maari",
+            "description": "Maari configurations include wheels—with or without a tablet—and a stackable chair base. Maari's versatility makes it the ideal office stackable chair, conference table chair with wheels, or go-anywhere workspace.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/maari/overview/Maari-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Poppy Guest",
+            "description": "The Poppy office side chair, designed by Patricia Urquiola, has an inviting look and swivel desk chair base to support creative and performance-driven spaces.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/poppy/overview/Poppy-Guest-7-Whitesweep-Haworth.jpg"
+        },
+        {
+            "title": "Riverbend & Pebble",
+            "description": "The Riverbend and Pebble customizable sofa offers a customizable couch sectional that's easy to attach and reconfigure, creating the perfect office lounge sofa.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/booths/riverbend-pebble/overview/riverbend-hero.jpg"
+        },
+        {
+            "title": "Cabana Lounge",
+            "description": "The Cabana modern sofa is designed as a modular sectional sofa ideal for the office. This office sofa has a flexible design for both focus and relaxation.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/booths/cabana-lounge/overview/cabanalounge-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Poppy Lounge",
+            "description": "The Poppy Office Lounge Chair is created for flexible spaces. This indoor lounge chair's style and comfort fosters innovation and rejuvenation.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/poppy-lounge/overview/Poppy-Lounge-1-Whitesweep-Haworth.jpg"
+        },
+        {
+            "title": "Very Side and Seminar",
+            "description": "Very Conference chairs and Seminar Chairs provide seating solutions for times of collaboration, meetings, training, or anywhere you need occasional chairs.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/very-3/overview/very-side-and-seminar-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Improv H.E.",
+            "description": "The Improv H.E. is a comfortable office chair for people of all sizes. The office chair's back support makes it an ideal office chair for back pain relief.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Office"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/improv-h-e-/overview/Improv-HE-2-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Openest Chick Poufs",
+            "description": "Openest Chick Ottoman Pouf seating creates cozy, inspirational office workspaces.  This upholstered ottoman is available in a unique round ottoman shape.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/openest-chick/overview/Openest-chick-pouf-5-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Resonate Lounge",
+            "description": "Resonate is a collection of commercial lounge sofas with corner sofa and contemporary sectional sofa options made for those in-between times when ideas form.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/resonate-lounge/overview/resonate-lounge-5-whitesweep.jpg"
+        },
+        {
+            "title": "X99 Seminar",
+            "description": "X99 Seminar chairs are perfect chairs for conference rooms. These conference room chairs with wheels are engineered to maintain the highest levels of comfort.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Conference",
+                "Café/Dining"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/x99-seminar/overview/X99-seminar-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Very Conference",
+            "description": "Very Conference chairs have a built-in intuitive recline that provides ergonomic support. Very Chairs for conference tables are also ideal desk side chairs.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/very-1/overview/very-conference-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Very Wire",
+            "description": "Very Wire plastic stackable chairs are suitable as plastic dining chairs or cafeteria chairs, and also fit into a variety of meeting and training spaces.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Stools",
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/very-wire/overview/Very-wire-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Openest Feather",
+            "description": "Communicate comfort through the softness of the Feather Sofa. Available in a variety of materials, the attached tables help to make it the ideal work sofa.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/openest-feather/overview/openest-feather-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Lyda",
+            "description": "The Lyda luxury sectional sofa is available in sofa and chair sets. Lyda uses modern lounge chair design to create flexible, adaptable seating configurations.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/lydalounge/overview/Lyda-Whitesweep-1-Haworth.jpg"
+        },
+        {
+            "title": "Improv Side Chair",
+            "description": "The Improv Desk Side Chair provides comfort and support in a style that's conventional, yet still miles from ho-hum.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Conference",
+                "Café/Dining",
+                "Guest"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/improv-side-chair/overview/improv-1-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Cabana Lounge Island",
+            "description": "The Cabana modern sofa is a modular sectional sofa ideal for offices or as hotel furniture. This office sofa has a flexible design for focus and rest.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/cabana-lounge-island/overview/cabana-lounge-island-1-whitesweep.jpg"
+        },
+        {
+            "title": "Lotus",
+            "description": "The Lotus office desk chair comes in a variety of customizable options, from side chairs to one of the best executive office chairs on the market.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Executive",
+                "Conference"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/lotus/overview/lotus-2-whitesweep-haworth.jpg"
+        },
+        {
+            "title": "Archibald",
+            "description": "Designed by Jean-Marie Massaud, the Archibald modern leather lounge chair and ottoman add a refined elegance to any space. Upholstery is in Pelle Frau® leather.",
+            "categories": [
+                "Seating"
+            ],
+            "subcategories": [
+                "Lounge/Sofas/Ottomans"
+            ],
+            "thumb_image": "https://www.haworth.com/content/dam/haworth-com/global/products/seating/archibald/overview/Archibald-1-whitesweeep-haworth.jpg"
+        }
+    ]
+}
