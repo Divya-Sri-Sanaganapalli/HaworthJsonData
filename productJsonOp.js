@@ -9,44 +9,50 @@ let url = "https://core.dxpapi.com/api/v1/core/?account_id=6389&auth_key=eqhxkds
 let options = {json: true};
 
 
-app.get('/createProductData', async (req, res) => {
+app.get('/createProductData', async (req, resp) => {
     request(url, options, (error, res, body) => {
-        
-       if(error){
+        if(error){
             res.status(500).json({
                 error: {
                     message: "Error retrieving the data from web"
                 }
             })
         }else{
+            count = 0
             var products = {
                 productsInfo: []
             };
-            console.log(body.response.docs)
+            //console.log(body.response.docs)
             var docsArray = body.response.docs;
-            for(j=0; j< docsArray.length; j++){
+            if(body != ''){
+                for(j=0; j< docsArray.length; j++){
                 //console.log(body.response.docs[j].title)
                 //products.push(docsArray[j].title)
-                products.productsInfo.push({
-                    title : docsArray[j].title,
-                    description : docsArray[j].description,
-                    categories : docsArray[j].categories,
-                    subcategories : docsArray[j].subcategories,
-                    thumb_image : docsArray[j].thumb_image
+                    products.productsInfo.push({
+                        title : docsArray[j].title,
+                        description : docsArray[j].description,
+                        categories : docsArray[j].categories,
+                        subcategories : docsArray[j].subcategories,
+                        thumb_image : docsArray[j].thumb_image
+                    })
+                    count += 1
+                }
+                fs.writeFile("./productsInfo.json", JSON.stringify(products), err => {
+                    if (err) {
+                        resp.status(400).json({
+                            error : err.message
+                        });
+                    } else {
+                        resp.status(200).send({
+                            message: "File loaded successfully",
+                            recordsInserted: count})
+                    }
                 })
             }
-            fs.writeFile("./productsInfo.json", JSON.stringify(products), err => {
-                if (err) {
-                    res.status(400).json({
-                        error : err.message
-                    });
-                } else {
-                    return res.status(200).send("File loaded successfully with record count")
-                }
-            })
         }
     })
 })
+
 app.listen(port, () => {
     console.log('The server is running on port', port);
 });
