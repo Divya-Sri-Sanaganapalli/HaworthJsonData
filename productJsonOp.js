@@ -18,7 +18,6 @@ app.get('/createProductData', async (req, resp) => {
                 }
             })
         }else{
-            count = 0
             var products = {
                 productsInfo: []
             };
@@ -35,7 +34,6 @@ app.get('/createProductData', async (req, resp) => {
                         subcategories : docsArray[j].subcategories,
                         thumb_image : docsArray[j].thumb_image
                     })
-                    count += 1
                 }
                 fs.writeFile("./productsInfo.json", JSON.stringify(products), err => {
                     if (err) {
@@ -45,9 +43,14 @@ app.get('/createProductData', async (req, resp) => {
                     } else {
                         resp.status(200).send({
                             message: "File loaded successfully",
-                            recordsInserted: count})
+                            recordsInserted: products.productsInfo.length})
                     }
                 })
+            }
+            else{
+                resp.status(400).json({
+                    message : "No data"
+                });
             }
         }
     })
