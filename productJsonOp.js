@@ -48,7 +48,7 @@ app.get('/createProductData', async (req, resp) => {
                 })
             }
             else{
-                resp.status(400).json({
+                resp.status(500).json({
                     message : "No data"
                 });
             }
